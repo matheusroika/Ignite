@@ -1,4 +1,4 @@
-# IgniteReact-01-Challenge1
+# Desafio: Conceitos do React
 Desafio 1 do 1º capítulo da trilha de React do Ignite da Rocketseat
 
 ### Objetivo
